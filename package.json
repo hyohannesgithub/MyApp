@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "8.9.4",
+  "description": "To make sure NPM packages are uptodate to install bower components",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyohannesgithub/MyApp.git"
+  },
+  "author": "Habtemariam Yohannes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyohannesgithub/MyApp/issues"
+  },
+  "homepage": "https://github.com/hyohannesgithub/MyApp#readme"
+}
