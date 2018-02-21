@@ -1,0 +1,32 @@
+body {
+	padding-top: 55px;
+}
+.navbar-input-group {
+	font-size: 0px; /*removes whitespace between button and input*/
+}
+
+.navbar-input-group {
+	font-size: 0px; /*removes whitespace between button and input*/
+}
+
+.navbar-input-group input {
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+.navbar-input-group .btn {
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-left: 0px;
+}
+
+.connectpanel {
+	background-color: #222;
+	padding-top: 10px; 
+	padding-bottom	: 10px; 
+	left: 0;
+	right: 0;
+	border-bottom: 1px solid black;
+	text-align: center;
+	color: #999;
+}
